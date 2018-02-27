@@ -1,0 +1,3 @@
+python图片转字符画
+库：pillow 图片处理库
+    argparse 管理命令行参数输入
